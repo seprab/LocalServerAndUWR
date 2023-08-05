@@ -1,0 +1,15 @@
+D:\Tickets\1623586\Pechito\bin\Debug\net6.0\Pechito.exe
+D:\Tickets\1623586\Pechito\bin\Debug\net6.0\Pechito.deps.json
+D:\Tickets\1623586\Pechito\bin\Debug\net6.0\Pechito.runtimeconfig.json
+D:\Tickets\1623586\Pechito\bin\Debug\net6.0\Pechito.dll
+D:\Tickets\1623586\Pechito\bin\Debug\net6.0\Pechito.pdb
+D:\Tickets\1623586\Pechito\obj\Debug\net6.0\Pechito.csproj.AssemblyReference.cache
+D:\Tickets\1623586\Pechito\obj\Debug\net6.0\Pechito.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tickets\1623586\Pechito\obj\Debug\net6.0\Pechito.AssemblyInfoInputs.cache
+D:\Tickets\1623586\Pechito\obj\Debug\net6.0\Pechito.AssemblyInfo.cs
+D:\Tickets\1623586\Pechito\obj\Debug\net6.0\Pechito.csproj.CoreCompileInputs.cache
+D:\Tickets\1623586\Pechito\obj\Debug\net6.0\Pechito.dll
+D:\Tickets\1623586\Pechito\obj\Debug\net6.0\refint\Pechito.dll
+D:\Tickets\1623586\Pechito\obj\Debug\net6.0\Pechito.pdb
+D:\Tickets\1623586\Pechito\obj\Debug\net6.0\Pechito.genruntimeconfig.cache
+D:\Tickets\1623586\Pechito\obj\Debug\net6.0\ref\Pechito.dll
